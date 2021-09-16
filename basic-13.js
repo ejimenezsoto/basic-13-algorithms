@@ -1,8 +1,11 @@
 //1
 // print numbers 1-255
 function Print1To255() {
-
+  for(var i=1;i<=255;i++){
+    console.log(i);
+  }
 }
+Print1To255();
 
 //2
 // print only odd numbers 1-255
@@ -20,8 +23,6 @@ function PrintIntsAndSum0To255() {
 
 //4
 // print values of array
-
-
 function PrintArrayVals(arr) {
 
 }
