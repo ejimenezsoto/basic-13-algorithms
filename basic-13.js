@@ -20,7 +20,7 @@ function PrintIntsAndSum0To255() {
 
 //4
 // print values of array
-var arr = [-3,2,-1,0,1,-4,6,7,10]
+
 
 function PrintArrayVals(arr) {
 
