@@ -1,15 +1,14 @@
 //1
 // print numbers 1-255
 function Print1To255() {
-  
+
 }
 
-//Print1To255();
 
 //2
 // print only odd numbers 1-255
 function PrintOdds1To255() {
-  
+
 }
 
 
@@ -17,7 +16,7 @@ function PrintOdds1To255() {
 // print the sum + sum of 0 - 255
 // e.g. 0 , 1 , 3, 4, 7, 11...
 function PrintIntsAndSum0To255() {
-  
+
 }
 
 
@@ -27,12 +26,14 @@ function PrintArrayVals(arr) {
 
 }
 
+
 //5
 // print max of array
 function PrintMaxOfArray(arr) {
 
 }
 // console.log(PrintMaxOfArray([1, 2, 2, 2, 2, 10]));
+
 
 //6
 // print array average
@@ -41,11 +42,13 @@ function PrintAverageOfArray(arr) {
 }
 // console.log(PrintAverageOfArray([2, 2, 2, 2, 10]));
 
+
 //7
 // return new array 1-255 only odds
 function ReturnOddsArray1To255() {
 
 }
+
 
 //8
 // square array values
@@ -70,6 +73,7 @@ function ZeroOutArrayNegativeVals(arr) {
 }
 //console.log(ZeroOutArrayNegativeVals([2,32,0,-4,7,-9,-1,12,-6]))
 
+
 //11
 // print max min and average values of array
 function PrintMaxMinAverageArrayVals(arr) {
@@ -78,15 +82,12 @@ function PrintMaxMinAverageArrayVals(arr) {
 // console.log(PrintMaxMinAverageArrayVals([-1, 3, -5, 2, 4]))
 
 
-
 //12
 // shift values of array left
 function ShiftArrayValsLeft(arr) {
 
 }
 //console.log(ShiftArrayValsLeft([-1, 3, -5, 2, 4]))
-
-
 
 
 //13
